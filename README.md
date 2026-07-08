@@ -1,127 +1,163 @@
-# 👋 Hola, soy Facundo Jesús Albri
+<h1 align="center">👋 Hola, soy Facundo Jesús Albri</h1>
 
-💻 Desarrollador Full Stack | Estudiante avanzado de la Tecnicatura Universitaria en Programación (UTN Villa María)
+<h3 align="center">
+💻 Full Stack Developer | Java & Spring Boot Developer
+</h3>
 
-Soy desarrollador de software con experiencia en la creación de aplicaciones web utilizando Java, Spring Boot, PostgreSQL, HTML, CSS y JavaScript. Actualmente me encuentro finalizando la Tecnicatura Universitaria en Programación y continúo ampliando mis conocimientos mediante proyectos personales y académicos.
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Sobre mí
+
+Soy estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN Villa María)** y desarrollador Full Stack.
+
+Me especializo en el desarrollo de aplicaciones web utilizando Java, Spring Boot y PostgreSQL, creando soluciones escalables y enfocadas en resolver problemas reales.
+
+Actualmente desarrollo proyectos personales, académicos y comerciales a través de **Kodea Soft**.
+
+---
+
+## 🛠️ Stack Tecnológico
 
 ### Backend
-- Java
-- Spring Boot
-- Spring Security (JWT)
-- Spring Data JPA
-- REST APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ### Bases de Datos
-- PostgreSQL
-- MySQL
-- MongoDB
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ### Herramientas
-- Git
-- GitHub
-- Docker
-- Postman
-- Visual Studio Code
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
 ---
 
 ## 💼 Proyectos Destacados
 
-### 🔹 EmpleoVM
-Plataforma web para la publicación y búsqueda de ofertas laborales.
+### 💼 EmpleoVM
+
+📌 Plataforma de búsqueda y gestión de empleo.
+
+✅ Gestión de usuarios
+
+✅ Publicación de ofertas laborales
+
+✅ Sistema de postulaciones
+
+✅ Backend desarrollado con Spring Boot
 
 **Tecnologías:**
-- Java
-- Spring Boot
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
+
+`Java` `Spring Boot` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
 🔗 https://pagina-empleo.onrender.com/
 
 ---
 
-### 🔹 PRODE WEB
-Aplicación web para la gestión de pronósticos deportivos, administración de partidos y cálculo de puntajes.
+### ⚽ PRODE WEB
+
+📌 Sistema de pronósticos deportivos.
+
+✅ Gestión de partidos
+
+✅ Administración de usuarios
+
+✅ Cálculo automático de puntajes
 
 **Tecnologías:**
-- Java
-- Spring Boot
-- PostgreSQL
-- HTML
-- CSS
-- JavaScript
+
+`Java` `Spring Boot` `PostgreSQL`
 
 ---
 
-### 🔹 Sistema de Gestión Hotelera
-Aplicación para la administración de hoteles, reservas y gestión de huéspedes.
+### 🏨 Sistema de Gestión Hotelera
+
+📌 Aplicación para administración de hoteles y reservas.
 
 **Tecnologías:**
-- Java
-- HTML
-- CSS
-- JavaScript
-- MySQL
+
+`Java` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🔹 Kodea Soft
-Emprendimiento orientado al desarrollo de software a medida, sistemas de gestión, páginas web y landing pages.
+### 🏢 Kodea Soft
 
-🔗 https://kodeasoft.vercel.app/
+Desarrollo de:
+
+- Software a medida
+- Sistemas de gestión
+- Sistemas de stock
+- Landing Pages
+- Páginas Web
+
+🌐 https://kodeasoft.vercel.app/
 
 ---
 
 ## 🎓 Educación
 
-**Universidad Tecnológica Nacional - Facultad Regional Villa María**  
-Tecnicatura Universitaria en Programación  
-2024 - 2026
+🎓 **Universidad Tecnológica Nacional - Facultad Regional Villa María**
 
-**Instituto Secundario Noetinger**  
-Educación Primaria y Secundaria  
-2009 - 2023
+Tecnicatura Universitaria en Programación
+
+📅 2024 - 2026
 
 ---
 
 ## 🌎 Idiomas
 
-- Inglés (en formación)
-- Español nativo
+🇬🇧 Inglés Básico
 
 ---
 
-## 🤝 Habilidades
+## 📈 Estadísticas
 
-- Resolución de problemas
-- Trabajo en equipo
-- Aprendizaje continuo
-- Responsabilidad
-- Adaptabilidad
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Facualbri&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facualbri&layout=compact" />
+</p>
 
 ---
 
 ## 📫 Contacto
 
-📧 Email: facundoalbri25@gmail.com
+<p align="center">
 
-💼 LinkedIn: https://www.linkedin.com/in/facundo-albri-543a51270
+<a href="mailto:facundoalbri25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-facundoalbri25%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
 
-🐙 GitHub: https://github.com/Facualbri
+<a href="https://github.com/Facualbri">
+<img src="https://img.shields.io/badge/GitHub-Facualbri-black?style=for-the-badge&logo=github" />
+</a>
 
-📱 Teléfono: +54 9 3472 507829
+<a href="https://www.linkedin.com/in/facundo-albri-543a51270">
+<img src="https://img.shields.io/badge/LinkedIn-Facundo_Albri-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</p>
 
 ---
 
-⭐ Siempre abierto a nuevos desafíos, oportunidades laborales y proyectos de desarrollo de software.
+<h3 align="center">
+⭐ Siempre abierto a nuevas oportunidades, desafíos y proyectos.
+</h3>
