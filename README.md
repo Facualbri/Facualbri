@@ -1,111 +1,119 @@
-<h1 align="center">👋 Hola, soy Facundo Jesús Albri</h1>
-
-<h3 align="center">
-💻 Full Stack Developer | Java & Spring Boot Developer
-</h3>
+<h1 align="center">Facundo Jesús Albri</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend-success?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge" />
+Desarrollador Full Stack • Java & Spring Boot Developer
+</p>
+
+<p align="center">
+  <a href="mailto:facundoalbri25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contacto-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/Facualbri">
+    <img src="https://img.shields.io/badge/GitHub-Facualbri-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/facundo-albri-543a51270">
+    <img src="https://img.shields.io/badge/LinkedIn-Facundo%20Albri-blue?style=flat-square&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy estudiante avanzado de la **Tecnicatura Universitaria en Programación (UTN Villa María)** y desarrollador Full Stack.
+Soy estudiante avanzado de la **Tecnicatura Universitaria en Programación** de la **UTN Facultad Regional Villa María**.
 
-Me especializo en el desarrollo de aplicaciones web utilizando Java, Spring Boot y PostgreSQL, creando soluciones escalables y enfocadas en resolver problemas reales.
+Me especializo en el desarrollo de aplicaciones web utilizando **Java**, **Spring Boot** y **PostgreSQL**, participando en proyectos académicos, personales y comerciales.
 
-Actualmente desarrollo proyectos personales, académicos y comerciales a través de **Kodea Soft**.
+Actualmente desarrollo soluciones de software a través de **Kodea Soft**, emprendimiento orientado a la creación de sistemas a medida, sistemas de gestión, páginas web y landing pages.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## ⚡ Tecnologías Principales
+
+<table>
+<tr>
+<td>
 
 ### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- REST API
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
-</p>
+</td>
+
+<td>
 
 ### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+</td>
+</tr>
+
+<tr>
+<td>
 
 ### Bases de Datos
+- PostgreSQL
+- MySQL
+- MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+</td>
+
+<td>
 
 ### Herramientas
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 💼 EmpleoVM
+### EmpleoVM
 
-📌 Plataforma de búsqueda y gestión de empleo.
+Plataforma web para la publicación y búsqueda de empleo.
 
-✅ Gestión de usuarios
-
-✅ Publicación de ofertas laborales
-
-✅ Sistema de postulaciones
-
-✅ Backend desarrollado con Spring Boot
-
-**Tecnologías:**
-
-`Java` `Spring Boot` `PostgreSQL` `HTML` `CSS` `JavaScript`
+**Tecnologías:** Java · Spring Boot · PostgreSQL · HTML · CSS · JavaScript
 
 🔗 https://pagina-empleo.onrender.com/
 
 ---
 
-### ⚽ PRODE WEB
+### PRODE WEB
 
-📌 Sistema de pronósticos deportivos.
+Sistema de pronósticos deportivos con administración de partidos y cálculo automático de puntajes.
 
-✅ Gestión de partidos
-
-✅ Administración de usuarios
-
-✅ Cálculo automático de puntajes
-
-**Tecnologías:**
-
-`Java` `Spring Boot` `PostgreSQL`
+**Tecnologías:** Java · Spring Boot · PostgreSQL
 
 ---
 
-### 🏨 Sistema de Gestión Hotelera
+### Sistema de Gestión Hotelera
 
-📌 Aplicación para administración de hoteles y reservas.
+Aplicación para la administración de hoteles, reservas y huéspedes.
 
-**Tecnologías:**
-
-`Java` `MySQL` `HTML` `CSS` `JavaScript`
+**Tecnologías:** Java · MySQL · HTML · CSS · JavaScript
 
 ---
 
-### 🏢 Kodea Soft
+### Kodea Soft
 
 Desarrollo de:
 
 - Software a medida
-- Sistemas de gestión
 - Sistemas de stock
+- Sistemas de gestión
 - Landing Pages
 - Páginas Web
 
@@ -113,51 +121,32 @@ Desarrollo de:
 
 ---
 
-## 🎓 Educación
+## 🎓 Formación
 
-🎓 **Universidad Tecnológica Nacional - Facultad Regional Villa María**
+**Universidad Tecnológica Nacional – Facultad Regional Villa María**
 
 Tecnicatura Universitaria en Programación
 
-📅 2024 - 2026
+2024 – 2026
 
 ---
 
 ## 🌎 Idiomas
 
-🇬🇧 Inglés Básico
+- 🇪🇸 Español: Nativo
+- 🇬🇧 Inglés: Básico
 
 ---
 
-## 📈 Estadísticas
+## 📊 GitHub
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Facualbri&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facualbri&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Facualbri&show_icons=true&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facualbri&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Contacto
-
 <p align="center">
-
-<a href="mailto:facundoalbri25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-facundoalbri25%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/Facualbri">
-<img src="https://img.shields.io/badge/GitHub-Facualbri-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/facundo-albri-543a51270">
-<img src="https://img.shields.io/badge/LinkedIn-Facundo_Albri-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
+  <i>"Siempre abierto a nuevas oportunidades, desafíos y proyectos de desarrollo de software."</i>
 </p>
-
----
-
-<h3 align="center">
-⭐ Siempre abierto a nuevas oportunidades, desafíos y proyectos.
-</h3>
