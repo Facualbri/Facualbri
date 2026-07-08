@@ -11,8 +11,7 @@
 ## Sobre Nosotros
 En **Kodea Soft** nacimos en Córdoba, Argentina, con una convicción clara: el software bien hecho transforma negocios. No somos una fábrica de código convencional; somos un equipo que se involucra con cada proyecto, escuchando, proponiendo y ejecutando soluciones reales para empresas, emprendedores y proyectos de todos los tamaños.
 
-Desarrollamos herramientas digitales escalables, limpias y eficientes que trabajan con el mismo compromiso que vos.
-
+Desarrollamos soluciones digitales modernas, escalables y eficientes que impulsan el crecimiento de empresas y emprendedores.
 ---
 
 ## Stack Tecnológico
@@ -21,20 +20,21 @@ Seleccionamos las herramientas adecuadas para cada desafío, priorizando la esta
 
 | Capa | Tecnologías |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript, Vite, Figma |
-| **Backend** | Java (Spring Boot), Spring Security (JWT), Spring Data JPA, Python, FastAPI, REST APIs, Swagger, Maven |
+| **Frontend** | HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript |
+| **Backend** | Java (Spring Boot), Spring Security (JWT), Spring Data JPA, Python, FastAPI, REST APIs, Maven |
 | **Mobile** | React Native, Flutter, Firebase, Google Maps API, Push Notifications, Stripe / MercadoPago |
-| **Bases de Datos** | MySQL, PostgreSQL, MongoDB, Redis, Firebase DB, Hibernate |
-| **DevOps / Herramientas** | Docker, Git / GitHub, AWS, GCP, CI/CD (GitHub Actions), Nginx, Postman, JUnit |
+| **Bases de Datos** | MySQL, PostgreSQL, MongoDB, Hibernate |
+| **DevOps / Herramientas** | Docker, Git / GitHub, AWS, GCP, CI/CD (GitHub Actions), Postman, Bruno |
 
 ---
 
 ## Servicios y Soluciones
 
-* **Páginas Web y Landing Pages:** Sitios enfocados en la velocidad, la conversión de visitantes a clientes y optimización SEO nativa.
-* **Sistemas de Gestión (ERP/CRM):** Automatización de procesos internos, paneles de control en tiempo real, gestión de stock y facturación integrada con ARCA (ex-AFIP).
-* **Sistemas Agrícolas:** Software especializado para el campo. Trazabilidad de cultivos, gestión de lotes, registros de aplicaciones y reportes regulatorios con integración IoT.
-* **Software a Medida:** Digitalización de procesos únicos, automatizaciones complejas y arquitecturas Cloud escalables.
+* **Software a Medida:** Desarrollo de sistemas personalizados adaptados a las necesidades específicas de cada negocio, optimizando procesos y mejorando la productividad.
+* **Sistemas de Gestión y Stock:** Soluciones para el control de inventario, gestión de productos, movimientos de stock, ventas, compras y generación de reportes en tiempo real.
+* **Páginas Web Corporativas:** Sitios web profesionales para empresas, emprendimientos y marcas que buscan fortalecer su presencia digital y transmitir confianza a sus clientes.
+* **Landing Pages:** Páginas optimizadas para campañas publicitarias, captación de clientes potenciales y presentación de productos o servicios con alto enfoque en conversión.
+* **Aplicaciones Web:** Desarrollo de plataformas web modernas, seguras y escalables con tecnologías actuales, adaptadas a distintos tipos de proyectos y organizaciones.
 
 ### Proyectos Destacados
 * **EmpleoVM:** Plataforma web optimizada para la búsqueda y gestión de empleo.
@@ -66,9 +66,9 @@ Alineamos el desarrollo mediante metodologías ágiles con entregas funcionales 
 
 ¿Tenés una idea o un problema que resolver? Te respondemos con una propuesta concreta.
 
-* **Email:** [kodeasoftware@gmail.com](mailto:kodeasoftware@gmail.com)
-* **WhatsApp / Teléfono:** [+54 9 3472 507829](https://wa.me/543472507829)
-* **Ubicación:** Córdoba, Argentina
+* 📧 **Email:** [kodeasoft@gmail.com](mailto:kodeasoft@gmail.com)
+* 📱 **WhatsApp:** [+54 9 3472 507829](https://wa.me/543472507829)
+* 📍 **Ubicación:** Córdoba, Argentina
 
 ---
-<p align="center"><b>Kodea Soft © 2026 - Córdoba, Argentina</b></p>
+<p align="center"><b>Kodea Software © 2026 - Córdoba, Argentina</b></p>
