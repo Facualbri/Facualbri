@@ -187,7 +187,7 @@ https://github.com/Facualbri/kodea-software
 www.linkedin.com/in/facundo-albri-543a51270
 
 🐙 **GitHub**
-github.com/Facualbri
+[github.com/Facualbri](https://github.com/Facualbri)
 
 ---
 
